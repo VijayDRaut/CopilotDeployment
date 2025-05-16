@@ -21,4 +21,4 @@ jobs:
       with:
         context: ./AM/
         push: false  
-        tags: AM:${{ github.sha }}
+        tags: am:${{ github.sha }}
